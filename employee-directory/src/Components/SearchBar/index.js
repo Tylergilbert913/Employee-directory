@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-const SearchBar = (props) => {
+function SearchBar(props) {
   // Setting the component's initial state
 
   return (

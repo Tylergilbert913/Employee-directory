@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css"
 
-const EmployeeTable = (props) => {
+function EmployeeTable(props) {
   return (
     <table className="table table-striped table-sortable text-center">
       <thead>
