@@ -1,6 +1,8 @@
 header {
-    background-color: #151d43;
-    color: white;
-    border-bottom: 5px solid #c52d3c;
+    background-image: url("https://lh3.googleusercontent.com/proxy/nA84Y4JetZqk_DiShaQkIsWnSavn-doxPQWKqUz2VTrChB2_4SASRmpyHYFVSeDgSVhqMvC59Bq5SwY7ZuPG4uZyNCeYFbJrcBVUh5jXl-xD");
+    color: rgb(5, 4, 4);
+    border-bottom: 5px solid #0a0505;
     padding: 25px;
+    text-align: center;
+    font-size: 30px;
 }
