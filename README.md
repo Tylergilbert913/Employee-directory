@@ -3,6 +3,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 https://opensource.org/licenses/MIT
+
+## Deployed site
+
+https://tylergilbert913.github.io/Employee-directory/
     
 ## Description 
     
