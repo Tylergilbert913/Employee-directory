@@ -7,6 +7,9 @@ https://opensource.org/licenses/MIT
 ## Deployed site
 
 https://tylergilbert913.github.io/Employee-directory/
+
+![Screenshot (242)](https://user-images.githubusercontent.com/73138234/116955670-30796780-ac61-11eb-85dd-5f9ebf13405c.png)
+
     
 ## Description 
     
