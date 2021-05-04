@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Employee-directory/static/css/main.2e50fb99.chunk.css",
+    "main.js": "/Employee-directory/static/js/main.050d50fe.chunk.js",
+    "main.js.map": "/Employee-directory/static/js/main.050d50fe.chunk.js.map",
+    "runtime-main.js": "/Employee-directory/static/js/runtime-main.18daba90.js",
+    "runtime-main.js.map": "/Employee-directory/static/js/runtime-main.18daba90.js.map",
+    "static/js/2.9661e68c.chunk.js": "/Employee-directory/static/js/2.9661e68c.chunk.js",
+    "static/js/2.9661e68c.chunk.js.map": "/Employee-directory/static/js/2.9661e68c.chunk.js.map",
+    "index.html": "/Employee-directory/index.html",
+    "static/css/main.2e50fb99.chunk.css.map": "/Employee-directory/static/css/main.2e50fb99.chunk.css.map",
+    "static/js/2.9661e68c.chunk.js.LICENSE.txt": "/Employee-directory/static/js/2.9661e68c.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/Employee-directory/static/media/BackgroundPattern263Colour2.6a2599d3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18daba90.js",
+    "static/js/2.9661e68c.chunk.js",
+    "static/css/main.2e50fb99.chunk.css",
+    "static/js/main.050d50fe.chunk.js"
+  ]
+}
